@@ -1,0 +1,180 @@
+/*
+Project Name: Relaxr
+Client: Relaxr
+Author: Jonathan Stevenson
+Developer @GA in Seattle
+*/
+
+
+body {
+     color: white;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: "Open Sans" Helvetica, Arial, sans-serif;
+     max-width: 475px;
+    margin: 0 auto;
+    background-color: gray;
+     margin-bottom: 0 auto;
+}
+
+header {
+  display: block;
+  background: url(images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+      background-color: #131e27;
+}
+
+header input[type="link"] {
+  color: #ffffff;
+}
+
+h1 { 
+  font-size: 19px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  color: #FFFFFF;
+  padding: 15px 0 0 40px;
+}
+
+h2 {
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 25px 0 20px 0px;
+  font-weight: 300;
+
+}
+
+#Get-it-now {
+  text-align: center;
+  padding-bottom: 120px;
+}
+
+#Get-it-now a{
+  text-align: center;
+  font-size: 15px; 
+  color: #ffffff;
+  background-color: #f9e42e;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 120px;
+  border: 1px solid black;
+  border-radius: 5px;
+  
+}
+
+
+
+input[type="signup"] {
+  text-align: center;
+  background-color: #121212;
+  color: #FFFFFF;
+  margin: 0 auto;
+  padding: 5px 5px 5px 5px;
+  border-radius: 5px;
+  border: 2px solid #f9e42e;
+}
+
+.sign-up-now {
+  background-color: #f9e42e;
+  color:  #FFFFFF;
+  padding: 10px 10px;
+  text-align: center;
+
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  padding: 25px 0 0px 40px;
+}
+
+blockquote p {
+  margin: 0 auto;
+  color: #033048;
+  padding: 25px 0 0 0px;
+}
+
+p {
+  text-align: left;
+  
+  color: #606161;
+  padding: 25px 0 20px 40px;
+}
+
+ul { 
+  margin-left: 100px;
+  color: #606161;
+  list-style: circle;
+  padding: 0 0 25px 0;
+}
+
+li {
+  color: #606161;
+  font-size: 13px;
+  font-weight: lighter;
+}
+
+section {
+  background: #f0efef;
+  color: #606161;
+}
+
+blockquote {
+  max-width: 210px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+#quote blockquote p a {
+  font-weight: 600;
+}
+#quote { 
+ background: url(images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+      max-height: 150px;
+      background-color: #033048;
+}
+
+#quote blockquote p {
+  margin: 0 auto;
+  text-align: center;
+  font: 300;
+  color: #cccccc;
+  background-color: #071324;
+  padding: 25px 0 25px 0;
+}
+
+
+h4 {
+  text-align: center;
+  font-weight: 600;
+  padding: 5px 0 15px 0;
+  color: #f9e42e;
+  font-size: 18px;
+}
+footer {
+  background-color: #121212;
+  max-height: 250px
+}
+
+a img {
+  padding-right: 5px;
+  padding-left: 5px;
+  width: 15px;
+  height: 15px;
+  color: #ffffff;
+}
+
+#links a {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+  font-size: 8px;
+  font-weight: 300;
+  padding-bottom: 10px
+}
